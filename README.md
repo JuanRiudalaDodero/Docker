@@ -24,4 +24,6 @@ Instalacion docker windows
 
 - Si no te sale que esta correcta has de hacer el paso 4 y luego otra vez el 5.
 - Volvemos a la ventanita de la instalacion incompleta y le damos a restart.
-- 
+- Nos dara la opcion de hacer un tutorial o saltarlo.
+<img src="dokker6.png"/>
+
