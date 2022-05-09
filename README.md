@@ -11,3 +11,17 @@ Instalacion docker windows
 - Empezara a descargar y empaquetar archivos, puede tardar un rato.
 - Al acabar nos pedira reiniciar windows.
 <img src="dokker2.png"/>
+
+- Al reiniciar nos saldra una ventanita de aceptar terminos y ciondiciones, lo aceptamos.
+<img src="dokker3.png"/>
+
+- Al aceptarla, nos saldra una ventanita que dira que la instalacion esta incompleta, pero no es asi.
+- Entra en el link de la ventanita y te llevara a unos pasos a seguir.
+<img src="dokker4.png"/>
+
+- Tendras que seguir el paso 5 y poner el siguiente comando en la power shell de windows para saber si tienes la instalacion corectamente hecha.
+<img src="dokker5.png"/>
+
+- Si no te sale que esta correcta has de hacer el paso 4 y luego otra vez el 5.
+- Volvemos a la ventanita de la instalacion incompleta y le damos a restart.
+- 
