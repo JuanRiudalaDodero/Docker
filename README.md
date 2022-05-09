@@ -8,4 +8,6 @@ Instalacion docker windows
 <img src="dokker1.png"/>
 
 - Le damos a OK.
-- 
+- Empezara a descargar y empaquetar archivos, puede tardar un rato.
+- Al acabar nos pedira reiniciar windows.
+<img src="dokker2.png"/>
