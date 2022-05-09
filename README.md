@@ -27,3 +27,4 @@ Instalacion docker windows
 - Nos dara la opcion de hacer un tutorial o saltarlo.
 <img src="dokker6.png"/>
 
+- La instalaccion de dokker ya estaria completada y ya sera operativo.
